@@ -25,6 +25,5 @@
     "千": "https://jisho.org/word/%E5%8D%83",
     "国": "https://jisho.org/word/%E5%9B%BD",
     "乗り": "https://jisho.org/word/%E4%B9%97%E3%82%8A"
-    
   ]
 }
