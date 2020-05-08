@@ -1,6 +1,5 @@
 {
-  "Vocabulary": [
-    "楽": "https://jisho.org/word/%E6%A5%BD",
+  "Vocabulary": ["楽": "https://jisho.org/word/%E6%A5%BD",
     "間": "https://jisho.org/word/%E9%96%93-1",
     "開き": "https://jisho.org/word/%E9%96%8B%E3%81%8D",
     "技": "https://jisho.org/word/%E6%8A%80",
@@ -24,6 +23,5 @@
     "年": "https://jisho.org/word/%E5%B9%B4",
     "千": "https://jisho.org/word/%E5%8D%83",
     "国": "https://jisho.org/word/%E5%9B%BD",
-    "乗り": "https://jisho.org/word/%E4%B9%97%E3%82%8A"
-  ]
+    "乗り": "https://jisho.org/word/%E4%B9%97%E3%82%8A"]
 }
