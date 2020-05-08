@@ -1,0 +1,3 @@
+{
+  Vocabulary: {楽: https://jisho.org/word/%E6%A5%BD}
+}
